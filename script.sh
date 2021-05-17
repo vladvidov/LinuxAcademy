@@ -5,6 +5,5 @@ echo "And here we can see arithmetic operations"
 echo "Number $numberOne + number $numberTwo is $(( $numberOne + $numberTwo ))"
 echo "That's all thanks."
 echo "New line after we switch on SCM polling"
-ssh ec2-user@example.com
 ls /home/vasia
 
